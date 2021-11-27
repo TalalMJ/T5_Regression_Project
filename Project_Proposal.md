@@ -5,28 +5,15 @@
 # Introduction
 In this work, the goal is to utilize the IMDB data set to generate helpful and interesting Insights and then create a movie rating model based on average IMDB movie ratings
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Data Description
+Data Scraping will be done in [IMDB](https://www.imdb.com/search/)
+ | Feature  |  Data Type |
+ | ------------- | ------------- |
+ | Movie Title | Categorical |
+ | Release Date  | Categorical |
+ | Genre of the Movie  | Categorical |
+ | Movie Rating | Numerical |
+ | Users Comments | Numerical |
 
 # Tools
 * Technologies: Python, Jupyter notebook.
