@@ -3,4 +3,4 @@
 Regression Project for SDAIA T5
 
 * [Project Proposal](Project_Proposal.md)
-* [Slides](Presentation.pdf)
+* [Slides](IMDB_Regression.pdf)
