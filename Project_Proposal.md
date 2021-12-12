@@ -1,4 +1,4 @@
-# IMDB Movies Ratings Prediction
+# IMDB Movies Gross Prediction
 
 ![IMDB](https://user-images.githubusercontent.com/93079224/143693824-440768a1-147d-44c1-a000-db239df761c8.png)
 
